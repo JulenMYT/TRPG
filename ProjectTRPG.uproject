@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "Struct_Fixer",
-			"Enabled": true
 		}
 	]
 }
